@@ -1,0 +1,5 @@
+streamlit
+spacy
+pdfplumber
+sentence-transformers
+scikit-learn
